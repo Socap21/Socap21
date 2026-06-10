@@ -7,7 +7,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/Oscar Patiño"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:ompatino100764@umanizales.edu.co"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white" alt="Email"/></a>
-  <a href="https://ajilamaria.com"><img src="https://img.shields.io/badge/Sitio\_web-Ají\_la\_María-E63946?style=for-the-badge" alt="Sitio web"/></a>
 </p>
 
 \---
