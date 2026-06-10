@@ -31,43 +31,37 @@ Me gusta lo que aprendo de cada proyecto: que un sistema en producción es muy d
 \---
 
 ## Stack técnico
-
-**Lenguajes**
-!\[Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
-!\[JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
-!\[SQL](https://img.shields.io/badge/SQL-4479A1?style=flat\&logo=mysql\&logoColor=white)
-!\[HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat\&logo=html5\&logoColor=white)
-!\[CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat\&logo=css3\&logoColor=white)
-!\[Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat\&logo=gnu-bash\&logoColor=white)
-
-**Backend y APIs**
-!\[FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat\&logo=fastapi\&logoColor=white)
-!\[Flask](https://img.shields.io/badge/Flask-000000?style=flat\&logo=flask\&logoColor=white)
-!\[Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat\&logo=streamlit\&logoColor=white)
-!\[Node.js](https://img.shields.io/badge/Node.js-339933?style=flat\&logo=node.js\&logoColor=white)
-
-**Cloud y deploy**
-!\[Cloudflare Workers](https://img.shields.io/badge/Cloudflare\_Workers-F38020?style=flat\&logo=cloudflare\&logoColor=white)
-!\[Google Cloud](https://img.shields.io/badge/Google\_Cloud-4285F4?style=flat\&logo=google-cloud\&logoColor=white)
-!\[Docker](https://img.shields.io/badge/Docker-2496ED?style=flat\&logo=docker\&logoColor=white)
-!\[Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat\&logo=proxmox\&logoColor=white)
-
-**Bases de datos**
-!\[SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat\&logo=sqlite\&logoColor=white)
-!\[MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat\&logo=mariadb\&logoColor=white)
-!\[Cloudflare D1](https://img.shields.io/badge/D1-F38020?style=flat\&logo=cloudflare\&logoColor=white)
-
-**Telefonía y IA**
-!\[FreePBX](https://img.shields.io/badge/FreePBX-2EA199?style=flat\&logo=asterisk\&logoColor=white)
-!\[Asterisk](https://img.shields.io/badge/Asterisk-D22128?style=flat\&logo=asterisk\&logoColor=white)
-!\[Ollama](https://img.shields.io/badge/Ollama-000000?style=flat)
-!\[Whisper](https://img.shields.io/badge/Whisper-412991?style=flat\&logo=openai\&logoColor=white)
-!\[n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat\&logo=n8n\&logoColor=white)
-
-**Sistemas**
-!\[Linux](https://img.shields.io/badge/Linux-FCC624?style=flat\&logo=linux\&logoColor=black)
-!\[Debian](https://img.shields.io/badge/Debian-A81D33?style=flat\&logo=debian\&logoColor=white)
-!\[Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat\&logo=ubuntu\&logoColor=white)
+Lenguajes
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+Backend y APIs
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+Cloud y deploy
+![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat&logo=cloudflare&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat&logo=proxmox&logoColor=white)
+Bases de datos
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
+![Cloudflare D1](https://img.shields.io/badge/D1-F38020?style=flat&logo=cloudflare&logoColor=white)
+Telefonía e IA
+![FreePBX](https://img.shields.io/badge/FreePBX-2EA199?style=flat&logo=asterisk&logoColor=white)
+![Asterisk](https://img.shields.io/badge/Asterisk-D22128?style=flat&logo=asterisk&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
+![Whisper](https://img.shields.io/badge/Whisper-412991?style=flat&logo=openai&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+Sistemas
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 
 \---
 
